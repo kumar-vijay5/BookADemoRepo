@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-17T10:55:15 CEST" name="All Test Suite execution" finished-at="2023-05-17T10:55:31 CEST" duration-ms="16531">
+    <groups>
+    </groups>
+    <test started-at="2023-05-17T10:55:15 CEST" name="C:/Users/S Vijay/IdeaProjects/BookDemoRequest" finished-at="2023-05-17T10:55:31 CEST" duration-ms="16531">
+      <class name="bookademo.BookRequest">
+        <test-method is-config="true" signature="BookRequest()[pri:0, instance:bookademo.BookRequest@359df09a]" started-at="2023-05-17T10:55:15 CEST" name="BookRequest" finished-at="2023-05-17T10:55:20 CEST" duration-ms="5530" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BookRequest -->
+        <test-method signature="SubmitDemo()[pri:0, instance:bookademo.BookRequest@359df09a]" started-at="2023-05-17T10:55:20 CEST" name="SubmitDemo" finished-at="2023-05-17T10:55:31 CEST" duration-ms="10758" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SubmitDemo -->
+        <test-method is-config="true" signature="close_browser()[pri:0, instance:bookademo.BookRequest@359df09a]" started-at="2023-05-17T10:55:31 CEST" name="close_browser" finished-at="2023-05-17T10:55:31 CEST" duration-ms="208" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close_browser -->
+      </class> <!-- bookademo.BookRequest -->
+    </test> <!-- C:/Users/S Vijay/IdeaProjects/BookDemoRequest -->
+  </suite> <!-- All Test Suite execution -->
+</testng-results>
